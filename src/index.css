@@ -5,3 +5,11 @@
 *{
     min-width: 0;
 }
+
+input {
+    color-scheme: dark
+}
+
+:root {
+    --rdp-accent-color: #BEF264;
+  }
