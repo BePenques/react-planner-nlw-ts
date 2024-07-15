@@ -1,4 +1,4 @@
-### Projeto em ReactJs desenvolvido durante a Next Level Week #16 da plataforma Rocketseat
+### Projeto em ReactJs desenvolvido durante a Next Level Week #16 da plataforma de ensino Rocketseat
 
 plataforma de planejamento de viagens, com opções de cadastro do local, agendamento de atividades, convidar amigos para participar e compartilhar informações entre o grupo.
 
