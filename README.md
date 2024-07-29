@@ -5,6 +5,6 @@ plataforma de planejamento de viagens, com opções de cadastro do local, agenda
 algumas tecnologias utilizadas:
 - TailwindCss
 - react-router-dom
-- axios(requisições para o projeto de back-end em nodeJs: https://github.com/rocketseat-education/nlw-journey-nodejs)
+- axios(requisições para o projeto de back-end em nodeJs: https://github.com/BePenques/node-planner-nlw-ts)
 
 layout figma: https://www.figma.com/design/dMCSs4Atu9gIy9MLN2zBKe/NLW-Journey-%E2%80%A2-Planejador-de-viagem-(Community)
